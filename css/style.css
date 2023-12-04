@@ -6,8 +6,9 @@ html, body {
 }
 
 body {
+  background-color: black;
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+  background-size: 85%;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
